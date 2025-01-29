@@ -5,7 +5,7 @@
 
 ## Part 1 - GitHub Profile
 
-1. [Jakethesnake641's Profile](FIXTHISURL-https://github.com/Jakethesnake641)
+1. [Jakethesnake641's Profile] (FIXTHISURL-https://github.com/Jakethesnake641)
 
 ## Part 2 - Research
 
